@@ -1,0 +1,146 @@
+{
+  "ASK": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "ask.sigml"
+  },
+  "BOOK": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "book.sigml"
+  },
+  "CLOSE": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "close.sigml"
+  },
+  "COME": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "come.sigml"
+  },
+  "DRINK": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "drink.sigml"
+  },
+  "EAT": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "eat.sigml"
+  },
+  "FRIEND": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "friend.sigml"
+  },
+  "GIVE": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "give.sigml"
+  },
+  "GO": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "go.sigml"
+  },
+  "HELLO": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "hello.sigml"
+  },
+  "HELP": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "help.sigml"
+  },
+  "HOME": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "home.sigml"
+  },
+  "KNOW": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "know.sigml"
+  },
+  "LEARN": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "learn.sigml"
+  },
+  "LIKE": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "like.sigml"
+  },
+  "LOOK": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "look.sigml"
+  },
+  "LOVE": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "love.sigml"
+  },
+  "NEED": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "need.sigml"
+  },
+  "NO": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "no.sigml"
+  },
+  "OPEN": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "open.sigml"
+  },
+  "RUN": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "run.sigml"
+  },
+  "SAY": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "say.sigml"
+  },
+  "SCHOOL": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "school.sigml"
+  },
+  "SEE": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "see.sigml"
+  },
+  "SORRY": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "sorry.sigml"
+  },
+  "STOP": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "stop.sigml"
+  },
+  "TAKE": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "take.sigml"
+  },
+  "TELL": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "tell.sigml"
+  },
+  "THANK_YOU": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "thank_you.sigml"
+  },
+  "THINK": {
+    "hamnosys": "􀤄􀤅􀤁",
+    "sigml": "think.sigml"
+  },
+  "UNDERSTAND": {
+    "hamnosys": "􀤃􀤄􀤅",
+    "sigml": "understand.sigml"
+  },
+  "WALK": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "walk.sigml"
+  },
+  "WANT": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "want.sigml"
+  },
+  "WORK": {
+    "hamnosys": "􀤅􀤁􀤂",
+    "sigml": "work.sigml"
+  },
+  "YES": {
+    "hamnosys": "􀤁􀤂􀤃",
+    "sigml": "yes.sigml"
+  },
+  "YOU": {
+    "hamnosys": "􀤂􀤃􀤄",
+    "sigml": "you.sigml"
+  }
+}
